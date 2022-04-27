@@ -1,2 +1,2 @@
-# Pytorch_Tutorials
-A set of Pytorch training examples 
+# Pytorch_Explore_Basics
+Playing around with Pytorch
